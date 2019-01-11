@@ -21,11 +21,11 @@ body, html {
 }
 
 .am {
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 .done {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .index-btn {
@@ -44,4 +44,24 @@ a{
 
 .right-panel {
   text-align: right;
+}
+
+.jumbo-footer {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.75);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.blazers{
+  padding-top: 35px;
+  padding-left: 150px;
+}
+
+.epicodus {
+  width: 463px;
+  height: 219.225px;
+  margin-left: 90px;
+  margin-top: 165px;
+
 }
