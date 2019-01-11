@@ -1,0 +1,11 @@
+body, html {
+  background-image: url("../img/portland2.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.title{
+  text-align: center;
+}
