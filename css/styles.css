@@ -3,6 +3,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   height: 100%;
 }
 
@@ -10,9 +11,21 @@ body, html {
   padding-bottom: 50px;
 }
 
-.jumbotron {
+.home-title {
   text-align: center;
   background-color: rgba(255, 255, 255, 0.35);
+}
+
+.aboutMe-panels {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.am {
+  margin-left: 10px;
+}
+
+.done {
+  margin-right: 10px;
 }
 
 .index-btn {
@@ -30,5 +43,5 @@ a{
 }
 
 .right-panel {
-  float: right;
+  text-align: right;
 }
