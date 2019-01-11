@@ -16,6 +16,11 @@ body, html {
   background-color: rgba(255, 255, 255, 0.35);
 }
 
+.projects-title {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
 .aboutMe-panels {
   background-color: rgba(255, 255, 255, 0.75);
 }
@@ -64,4 +69,13 @@ a{
   margin-left: 90px;
   margin-top: 165px;
 
+}
+
+.well {
+  background-color: rgba(255,255,255,.75);
+  border-radius: 15px;
+}
+
+.day-title{
+  text-align: center;
 }
