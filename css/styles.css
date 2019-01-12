@@ -79,3 +79,18 @@ a{
 .day-title{
   text-align: center;
 }
+
+.link-container{
+  border-color: gray;
+}
+
+.link-sum{
+  text-align: center;
+}
+
+.projects-footer {
+  text-align: center;
+  background-color: rgba(255,255,255,.75);
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
