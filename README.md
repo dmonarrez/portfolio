@@ -13,6 +13,7 @@ _This site is purely to showcase my coding ability after the 1 week at Epicodus 
 * _Clone this repository (requires git)_
 * _Find the file in the location you cloned it on your computer_
 * _Double click index file to launch_
+* -Check gh-pages link https://dmonarrez.github.io/portfolio
 
 ## Known Bugs
 
